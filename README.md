@@ -23,10 +23,11 @@ Desenvolver uma solução que facilite o gerenciamento de filas, organize a orde
 
 ## Tecnologias utilizadas
 
-- [Adicionar as linguagens de programação utilizadas]
-- [Adicionar os frameworks e bibliotecas utilizados]
-- [Adicionar o banco de dados utilizado]
-
+- JavaScript
+- React19
+- React DOM
+- Lucide React
+- 
 ## Modelagem do sistema
 
 A modelagem do NassauTickets contempla diagramas que representam o funcionamento e a estrutura do sistema, incluindo:
@@ -52,11 +53,39 @@ A modelagem do NassauTickets contempla diagramas que representam o funcionamento
 
 ## Como executar o projeto
 
-As instruções de instalação e execução serão adicionadas conforme a implementação do sistema e a definição das tecnologias utilizadas.
+
+Assim, no GitHub vai aparecer bonitinho:
+
+**🚀 Como executar**
+
+**1. Clonar o repositório**
+```bash
+git clone https://github.com/EllenSalgado2028/nassauTickets.git
+```
+
+**2. Entrar na pasta do projeto**
+```bash
+cd nassauTickets
+```
+
+**3. Acessar o frontend**
+```bash
+cd frontend
+```
+
+**4. Instalar as dependências**
+```bash
+npm install
+```
+
+**5. Executar o projeto**
+```bash
+npm run dev
+```
 
 ## Status do projeto
 
-Em desenvolvimento.
+O projeto encontra-se em desenvolvimento, com a implementação do frontend e a elaboração da documentação, modelagem e estrutura do sistema.
 
 ## Instituição
 
